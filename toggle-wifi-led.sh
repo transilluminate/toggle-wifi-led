@@ -1,6 +1,7 @@
 #!/bin/bash
-# Copyright 2023 Adrian Robinson <adrian dot j dot robinson at gmail dot com>
-# https://github.com/transilluminate/toggle-wifi-led
+# Copyright 2023 Adrian Robinson
+# email: $ echo YWRyaWFuIGRvdCBqIGRvdCByb2JpbnNvbiBhdCBnbWFpbCBkb3QgY29tCg== | base64 --decode
+# github: https://github.com/transilluminate/toggle-wifi-led
 
 # Modified from: https://www.topbug.net/blog/2015/01/13/control-the-led-on-a-usb-wifi-adapter-on-linux/
 
